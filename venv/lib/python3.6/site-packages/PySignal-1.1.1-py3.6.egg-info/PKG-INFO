@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: PySignal
+Version: 1.1.1
+Summary: Python Signal Library to mimic the Qt Signal system for event driven connections
+Home-page: https://github.com/dgovil/PySignal
+Author: Dhruv Govil
+Author-email: dhruvagovil@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: signals,qt,events
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities

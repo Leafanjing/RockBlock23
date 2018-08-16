@@ -1,0 +1,8 @@
+PySignal.py
+setup.cfg
+setup.py
+PySignal.egg-info/PKG-INFO
+PySignal.egg-info/SOURCES.txt
+PySignal.egg-info/dependency_links.txt
+PySignal.egg-info/not-zip-safe
+PySignal.egg-info/top_level.txt
